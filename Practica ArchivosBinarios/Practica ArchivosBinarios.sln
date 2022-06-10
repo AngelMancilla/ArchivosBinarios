@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Practica ArchivosBinarios", "Practica ArchivosBinarios.csproj", "{206D2A15-17B6-4D00-9EDD-6758B87B30D2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{206D2A15-17B6-4D00-9EDD-6758B87B30D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{206D2A15-17B6-4D00-9EDD-6758B87B30D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{206D2A15-17B6-4D00-9EDD-6758B87B30D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{206D2A15-17B6-4D00-9EDD-6758B87B30D2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3857F56C-76F2-4173-A2EC-E62145030CD3}
+	EndGlobalSection
+EndGlobal
